@@ -1,0 +1,6 @@
+OSaSP laboratory work #3
+
+Task:
+	Producer-Consumer pattern;
+	Producer: process directory, find files in it and write list of files into Monitor
+	Consumer: get file, create MD5, find 'MZ' sequence

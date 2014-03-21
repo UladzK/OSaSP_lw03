@@ -1,0 +1,9 @@
+C:\lw03\lw03\bin\Debug\lw03.exe.config
+C:\lw03\lw03\bin\Debug\lw03.exe
+C:\lw03\lw03\bin\Debug\lw03.pdb
+C:\lw03\lw03\obj\Debug\lw03.csprojResolveAssemblyReference.cache
+C:\lw03\lw03\obj\Debug\lw03.Form1.resources
+C:\lw03\lw03\obj\Debug\lw03.Properties.Resources.resources
+C:\lw03\lw03\obj\Debug\lw03.csproj.GenerateResource.Cache
+C:\lw03\lw03\obj\Debug\lw03.exe
+C:\lw03\lw03\obj\Debug\lw03.pdb
